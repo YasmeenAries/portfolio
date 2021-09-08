@@ -52,7 +52,7 @@ h1, h3, h4 {
 }
 
 p {
-    color: rgb(255, 255, 255);
+    color: #fff;
     font-size: 1.8rem;
     font-family: 'Work Sans', sans-serif;
     line-height: 200%;
@@ -267,7 +267,7 @@ p {
     font-size: 2rem;
     color: #ffffff;
     padding: 1rem;
-    border: .2rem solid rgb(0, 0, 0);
-    background-color: #990000;
+    border: .2rem solid rgb(63, 63, 63);
+    background-color: #000000;
     border-radius: 3rem;
 }

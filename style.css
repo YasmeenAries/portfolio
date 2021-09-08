@@ -52,7 +52,7 @@ h1, h3, h4 {
 }
 
 p {
-    color: #fff;
+    color: rgb(255, 255, 255);
     font-size: 1.8rem;
     font-family: 'Work Sans', sans-serif;
     line-height: 200%;
@@ -265,9 +265,9 @@ p {
 .btn {
     font-family: 'Work Sans', sans-serif;
     font-size: 2rem;
-    color: #00FFFF;
+    color: #ffffff;
     padding: 1rem;
-    border: .2rem solid cornflowerblue;
-    background-color: #000000;
+    border: .2rem solid rgb(0, 0, 0);
+    background-color: #990000;
     border-radius: 3rem;
 }
